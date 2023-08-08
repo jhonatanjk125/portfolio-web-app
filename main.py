@@ -12,3 +12,6 @@ with col2:
     about = """Hello, I am Jhonatan! I am a Petroleum Engineer with experience in upstream operations in the Oil & Gas industry, specifically in drilling operations.
     I also have a passion for programming and learning languages! I've learned and developed some apps to hone my skills with python as you can see below."""
     st.info(about)
+
+content1 = """Below you can find some of the apps I have built in Python. Feel free to contact me!"""
+st.write(content1)
