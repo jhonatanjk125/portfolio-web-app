@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/jhonatanjk125/pdf-template-generator/blob/master/project_image.png">
-        <img src="https://github.com/jhonatanjk125/pdf-template-generator/blob/master/project_image.png" height="200" />
+    <a href="https://github.com/jhonatanjk125/portfolio-web-app/blob/master/images/website_under_construction.jpg">
+        <img src="https://github.com/jhonatanjk125/portfolio-web-app/blob/master/images/website_under_construction.jpg" height="200" />
     </a>
 </p>
 <h1 align="center">Portfolio web app</h1>
